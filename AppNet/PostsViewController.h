@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PostsViewController.h
 //  AppNet
 //
 //  Created by Ahmed Khalil on 4/3/13.
@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface PostsViewController : UITableViewController
+
+
 
 @end
